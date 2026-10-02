@@ -18,6 +18,3 @@ I turn force plate and strength testing data into decisions coaches and medical 
 | **NHL analytics** *(coming soon)* | Python analysis of open NHL data. | Python |
 
 Every project runs on simulated demo data out of the box, so you can download it and click **Refresh**.
-
-### Get in touch
-[LinkedIn](LINKEDIN_URL)
