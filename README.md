@@ -2,7 +2,7 @@
 
 **Strength & conditioning coach and sport scientist** · Mesa, Arizona 🇨🇦
 
-I turn force plate and strength testing data into decisions coaches and medical staff can act on, especially for return to play. Experience across professional baseball, including the Arizona Diamondbacks and the Seattle Mariners' minor league return-to-play group, plus hockey-specific performance work.
+I turn force plate and strength testing data into decisions coaches and medical staff can act on, especially for return to play. Experience across professional baseball, including the Arizona Diamondbacks and the Seattle Mariners' minor league return-to-play group, plus previous experience with professional football, junior & college hockey.
 
 **What I work with**
 - **Testing:** VALD ForceDecks, ForceFrame and DynaMo, isometric and handheld dynamometry, jump and landing assessment
